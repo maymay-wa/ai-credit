@@ -1,1 +1,9 @@
-test
+Things to do:
+
+    1) Frontend:
+        a) react.js/python
+    
+    2) Backend
+        a) python/sql
+        b) groq for the api
+    
